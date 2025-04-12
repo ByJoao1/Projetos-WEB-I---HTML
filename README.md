@@ -3,7 +3,7 @@
 
 [Projeto 1: Apresentação Pessoal](https://byjoao1.github.io/Projeto1/)
 
-[Projeto 2: Portfólio de imagens](https://byjoao1.github.io/Projeto2/)
+[Projeto 2: Portfólio de imagens](https://github.com/ByJoao1/Projeto2/tree/main/Projeto2)
 
 [Projeto 3: Receita de Bolo de Chocolate](https://byjoao1.github.io/Projeto3/)
 
