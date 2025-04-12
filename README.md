@@ -1,4 +1,4 @@
-(João Pedro Abreu)
+## João Pedro Abreu
 
 
 [Projeto 1: Apresentação Pessoal](https://byjoao1.github.io/Projeto1/)
