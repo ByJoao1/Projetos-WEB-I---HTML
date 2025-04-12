@@ -8,3 +8,4 @@
 
 
 [Projeto 6: Roteiro de viagens](https://github.com/ByJoao1/Projetos-WEB-I---HTML/tree/main/Projeto6)
+[Projeto 7: Cadastro de Usuário](https://github.com/ByJoao1/Projetos-WEB-I---HTML/tree/main/Projeto7)
